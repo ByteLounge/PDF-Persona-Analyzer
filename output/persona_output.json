@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "input_documents": [
+      "2104.11364v1.pdf",
+      "2202.02958v5.pdf",
+      "2310.03086v1.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job": "Prepare a literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "Fri Jul 18 10:38:39 2025"
+  },
+  "sections": [
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 4,
+      "section_title": "services across a spectrum of data types, but their mission,",
+      "importance_rank": 0.6141
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 3,
+      "section_title": "A modern research project may include multiple model systems",
+      "importance_rank": 0.5871
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 2,
+      "section_title": "Abstract ",
+      "importance_rank": 0.5622
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 8,
+      "section_title": "support computing hardware or cloud-based computing. Institu",
+      "importance_rank": 0.5444
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 10,
+      "section_title": "Markowetz 2017) may emerge who are equally adept at the expe",
+      "importance_rank": 0.5394
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 12,
+      "section_title": "16. https://doi.org/10.1038/529115a. ",
+      "importance_rank": 0.5238
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 1,
+      "section_title": "A field guide to cultivating computational biology ",
+      "importance_rank": 0.5182
+    },
+    {
+      "document": "2310.03086v1.pdf",
+      "page": 25,
+      "section_title": "5.0 KEY CHALLENGES IN APPLYING DEEP LEARNING TO BIOLOGICAL D",
+      "importance_rank": 0.5066
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 7,
+      "section_title": "such scientists face disproportionate demands on their time ",
+      "importance_rank": 0.5041
+    },
+    {
+      "document": "2310.03086v1.pdf",
+      "page": 45,
+      "section_title": "Table 2 Recent developments in applying deep learning to com",
+      "importance_rank": 0.4886
+    }
+  ],
+  "subsections": [
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 4,
+      "refined_text": "In contrast, a \ncomputational biologist\u2019s research laboratory often must focus on novel methods development in a \nparticular area for career advancement. In one computational biology laboratory, one-third of its collaborators\u2019 funded. Computational scientists may have critical insights that impact the \nscope of the biological questions, study design, analysis, and interpretation"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 3,
+      "refined_text": "Despite the fact that dramatic advancements have been driven by computational \nbiology, too often researchers choosing this path languish in career advancement, publication, and \ngrant review. Solving the bottlenecks in data-driven discovery requires empowering computational biologists and \nrewarding interdisciplinary and team science. Since then, computational biology has emerged as a mature scientific discipline, with investigators \nfollowing new research models (Loman and Watson 2013; Markowetz 2017) and educational training \n(Form and Lewitter 2011; Ayoob and Kangas 2020; Demharter et al"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 2,
+      "refined_text": "This \ninterdisciplinary niche is where computational biology thrives. Abstract \n \nBiomedical research centers can empower basic discovery and novel therapeutic strategies by \nleveraging their large-scale datasets from experiments and patients. It has matured over the past three \ndecades and made major contributions to scientific knowledge and human health, yet researchers in \nthe field often languish in career advancement, publication, and grant review"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 8,
+      "refined_text": "Facilitate computationally-driven experimentation and data generation \nHistorically, computational biologists relied on collaborators or public resources for datasets. Institutions and laboratory neighbors can \nflexibly offer laboratory space for computational biologists when needed and can offer appropriate \nbiology mentors for biologists joining computational groups. Being able to bridge the dry lab-wet lab gap can have \na major impact on a computational biologist\u2019s success"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 10,
+      "refined_text": "Markowetz 2017) may emerge who are equally adept at the experimental and the computational \naspects of molecular biology. Acknowledgments \nThe authors thank the interdisciplinary researchers who have paved the way for their careers and \nthe National Institutes of Health for research funding (R35 GM122547 to AEC, R01 HG010067 to \nCSG, and NCI U01CA253403 to EJF)"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 12,
+      "refined_text": "\u201d Scientific Data 3 (March): 160018. \u201cThe FAIR Guiding Principles for Scientific Data \nManagement and Stewardship. \u201d Genome \nBiology 21 (1): 67"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 1,
+      "refined_text": "Theis, Institute of Computational Biology, Helmholtz Center Munich and Department of \nMathematics, Technical University of Munich, Germany https://orcid. A field guide to cultivating computational biology \n \nAnne E. Fertig*, Convergence Institute, Departments of Oncology, Biomedical Engineering, and \nApplied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD, USA \nhttps://orcid"
+    },
+    {
+      "document": "2310.03086v1.pdf",
+      "page": 25,
+      "refined_text": "1 Emerging Areas of Research and potential applications of deep learning in computational \nbiology \nComputational biology is defined as an interdisciplinary field which involves the use of \ntechniques from various other fields such as biology, mathematics, statistics, computer science and \nmore. Applications of deep learning in computational biology can be seen in various areas \nincluding in the study of genomics and proteomics. There are many major achievements that are \nobtained specifically in areas such as protein structure prediction, and rapid advancement in other \nareas of research from the traditional approaches including genomic engineering, multi-omics, and \nphylogenetics can also be seen"
+    },
+    {
+      "document": "2104.11364v1.pdf",
+      "page": 7,
+      "refined_text": "Develop and reward cross-disciplinary training and mentoring \nAs large data sets become increasingly common, computational expertise is a valuable asset for any \nbiologist. The deepest insights often result from data analyzed by the biologists who designed the \nexperiment, and user-friendly software brings some analyses within reach of any researcher. Support computing and software development infrastructure to empower computational \nbiologists  \nComputing infrastructure (whether local cluster or cloud-based) is essential to modern biomedical \ndata science and requires the combination of compute power, data storage, and networking - all of \nwhich can introduce significant costs to research projects"
+    },
+    {
+      "document": "2310.03086v1.pdf",
+      "page": 45,
+      "refined_text": "Table 2 Recent developments in applying deep learning to computational biology. Deep \nLearning \nAlgorithm \nApplication in Computational Biology \nReferences \nConvolutional \nNeural \nNetworks \n(CNN) \nGene expression analysis \n79 \nRecurrent \nNeural \nNetworks \n(RNN) \nDNA sequence analysis \n80 \nGenerative \nAdversarial \nNetworks \n(GAN) \nSynthetic biology and protein design \n81 \nDeep Belief \nNetworks \n(DBN) \nProtein structure prediction \n82 \nReinforcement \nLearning (RL) \nDrug discovery and optimization \n83 \nTransformer \nNetworks \nRNA structure prediction \n84 \nAutoencoders \nDisease diagnosis and prognosis \n85 \nGraph Neural \nNetworks \n(GNN) \nProtein-protein interaction prediction \n86. The table \nillustrates recent advancements in deep learning algorithms, their applications in computational \nbiology, and relevant references"
+    }
+  ]
+}
